@@ -1,0 +1,1 @@
+self.__REACT_LOADABLE_MANIFEST='{"components\\\\Parterners.tsx -> @/components/AutoPlaySlider":{"id":3595,"files":["static/chunks/595.6bdcfa9bc7cb6bdb.js"]}}';
